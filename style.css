@@ -82,6 +82,7 @@ body{
     text-align: center;
     padding-top: 5px;
     font-size: 22px;
+    overflow-y: auto;
 }
 button{
     border: 1px solid #137d95;
